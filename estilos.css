@@ -1,0 +1,63 @@
+html{
+    min-height: 100%;
+}
+body{
+/* background-color: rgb(12, 2, 68);
+background-image: url("imagenes/patron3.jpg");
+opacity: 100%; */
+background: linear-gradient(to bottom right, plum, white);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+
+
+}
+
+
+
+.banner{
+    border-radius: 15px;
+    border:solid;
+    border-color: black;
+    background-color: #FF99CC;
+    margin-left: 30%;
+    margin-top: 2%;
+    height: 80px;
+    width: 500px;
+    position: relative;
+}
+.banner-interno{
+    border-radius: 15px;
+    position: fixed;
+    border-style: dotted;
+    height: 60px;
+    width: 475px;
+    margin-left: 10px;
+    margin-top: 7px;
+    position: relative;
+}
+.text{
+    margin-top: 10px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    position: relative;
+
+}
+
+li{
+    margin-top: 30px;
+    list-style: none;
+}
+#nav{
+    font-size: large;
+    font-family: monospace;
+    color: black;
+    font-style: normal;
+    background-color: plum;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px white;
+    text-decoration: none;
+    padding: 10px;
+}
