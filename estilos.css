@@ -100,7 +100,9 @@ img[alt^="selene"]{
     border-radius: 50%;
     height: 95%;
     width: auto;
-    align-content: center;
+    vertical-align: center;
+    margin-left: auto;
+    margin-right: auto;
 
 
 }
