@@ -107,11 +107,15 @@ img[alt^="selene"]{
 .marco{
     margin-top: 2%;
     background-color: #9999FF;
-    width: 200px;
-    height: 200px;
+    width: 20rem;
+    height: 20rem;
     border-radius: 3%;
 }
 
 .borde{
-    background-color: ;
+    background-color: #9999CC;
+    height: 0.5rem;
+    width: 20rem;
+    border-radius: 3%;
+
 }
