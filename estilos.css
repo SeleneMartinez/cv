@@ -94,6 +94,6 @@ footer{
 }
 
 img[alt^="arrow"]{
-    padding: 0rem;
+    vertical-align: middle;
 
 }
