@@ -98,13 +98,13 @@ footer{
 img[alt^="selene"]{
     padding-top: 2%;
     border-radius: 50%;
-    width: 10%;
-    height: 10%;
+
 
 }
 .marco{
     padding-top: 2%;
     background-color: #9999FF;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 3%;
 }
