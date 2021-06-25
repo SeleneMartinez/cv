@@ -90,15 +90,8 @@ footer{
 }
 .curriculum
 {
-    font-size: large;
-    font-family: monospace;
-    color: black;
-    font-style: normal;
     background-color: #CCCCFF;
-    border-radius: 1.5rem;
 
-    text-decoration: none;
-    padding: 1rem;
 }
 
 
