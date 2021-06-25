@@ -114,9 +114,10 @@ img[alt^="selene"]{
 }
 
 .borde{
+    margin-top: 2%;
     background-color: #9999CC;
     height: 2.5rem;
     width: 25rem;
-    border-radius: 0  4rem 4rem 0;
+    border-radius:   4rem 4rem 0 0;
 
 }
