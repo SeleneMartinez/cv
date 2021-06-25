@@ -124,6 +124,19 @@ img[alt^="selene"]{
     border-radius:   1rem 1rem 0 0;
     border-top: solid;
     border-bottom: solid;
+}
+.presentacion-fondo{
+    height: 20rem;
+    width: 20rem;
+    border-radius: 1rem;
+    background-color: #9999FF;
+    opacity: 70%;
+}
 
-
+.superior{
+    margin-top: 4rem;
+    height: 3rem;
+    width: 20rem;
+    background-color: #9999CC;
+    opacity: 70%;
 }
