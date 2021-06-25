@@ -123,7 +123,6 @@ img[alt^="selene"]{
     width: 25rem;
     border-radius:   1rem 1rem 0 0;
     border-top: solid;
-    border-left: solid;
-    border-right: solid;
+
 
 }
