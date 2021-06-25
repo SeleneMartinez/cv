@@ -101,8 +101,7 @@ img[alt^="selene"]{
     height: 95%;
     width: auto;
     vertical-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: auto;
 
 
 }
