@@ -92,3 +92,8 @@ footer{
 .navegador{
     box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem white;
 }
+
+img[alt^="arrow"]{
+    margin-top: 0.5rem;
+
+}
