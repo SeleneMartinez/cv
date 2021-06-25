@@ -96,7 +96,7 @@ footer{
 }
 
 img[alt^="selene"]{
-    border-radius: 3%;
+    border-radius: 4rem;
     height: 70%;
     width: auto;
     padding-top: 20%;
@@ -108,7 +108,7 @@ img[alt^="selene"]{
     background-color: #9999FF;
     width: 25rem;
     height: 25rem;
-    border-radius: 3%;
+    border-radius: 4rem;
     text-align: center;
 
 }
@@ -117,6 +117,6 @@ img[alt^="selene"]{
     background-color: #9999CC;
     height: 5rem;
     width: 20rem;
-    border-radius: 3%;
+    border-radius: 4rem  4rem 0 0;
 
 }
