@@ -99,7 +99,7 @@ img[alt^="selene"]{
     border-radius: 3%;
     height: 70%;
     width: auto;
-    padding-top: 50%;
+    padding-top: 20%;
 
 
 }
@@ -115,7 +115,7 @@ img[alt^="selene"]{
 
 .borde{
     background-color: #9999CC;
-    height: 0.5rem;
+    height: 5rem;
     width: 20rem;
     border-radius: 3%;
 
