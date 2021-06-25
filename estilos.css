@@ -110,6 +110,7 @@ img[alt^="selene"]{
     height: 25rem;
     border-radius: 1rem 1rem 4rem 4rem;
     text-align: center;
+    border: solid;
 
 }
 
@@ -119,5 +120,8 @@ img[alt^="selene"]{
     height: 2.5rem;
     width: 25rem;
     border-radius:   1rem 1rem 0 0;
+    border-top: solid;
+    border-left: solid;
+    border-right: solid;
 
 }
