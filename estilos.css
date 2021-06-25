@@ -141,9 +141,7 @@ img[alt^="selene"]{
     border-radius: 1rem;
     background-color: rgba(255, 255, 255, 0.356);
     margin-left: 15%;
-    border-left: medium;
-    border-right: medium;
-    border-bottom: medium;
+    border-width: 0 0.5rem 0.5rem 0.5rem;
 
 
 }
@@ -152,8 +150,7 @@ img[alt^="selene"]{
     height: 3rem;
     width: 100%;
     background-color: #9999ff70;
-    border-top: medium;
-    border-bottom: medium;
+    border-width: 0.5rem 0.5rem 0rem 0rem;
 }
 
 
