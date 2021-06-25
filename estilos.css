@@ -136,16 +136,16 @@ img[alt^="selene"]{
 .presentacion-fondo{
     float: left;
     height: 20rem;
-    width: 20rem;
+    width: 40rem;
     border-radius: 1rem;
     background-color: white;
     opacity: 30%;
-    margin-left: 20%;
+    margin-left: 15%;
 }
 
 .superior{
     height: 3rem;
-    width: 20rem;
+    width: 100%;
     background-color: #9999FF;
     opacity: 50%;
 }
