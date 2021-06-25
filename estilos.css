@@ -141,6 +141,11 @@ img[alt^="selene"]{
     background-color: white;
     opacity: 30%;
     margin-left: 15%;
+
+    text-align: center;
+    font-family: monospace;
+    font-family: monospace;
+    font-size: x-large;
 }
 
 .superior{
@@ -148,6 +153,4 @@ img[alt^="selene"]{
     width: 100%;
     background-color: #9999FF;
     opacity: 50%;
-    text-align: center;
-    font-family: monospace;
 }
