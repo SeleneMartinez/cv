@@ -1,5 +1,6 @@
 html{
     min-height: 100%;
+    font-size: 62.5%;
 }
 body{
 /* background-color: rgb(12, 2, 68);
@@ -22,32 +23,31 @@ height: 100%;
     background-color: #FF99CC;
     margin-left: 30%;
     margin-top: 2%;
-    height: 80px;
-    width: 500px;
-    position: relative;
+    height: 8rem;
+    width: 50rem;
+ 
 }
 .banner-interno{
-    border-radius: 15px;
+    border-radius: 1.5rem;
     position: fixed;
-    border-style: dotted;
-    height: 60px;
-    width: 475px;
-    margin-left: 10px;
-    margin-top: 7px;
-    position: relative;
+    border-style: dashed;
+    height: 6rem;
+    width: 47.5rem;
+    margin-left: 1rem;
+    margin-top: 0.7rem;
+
 }
 .text{
-    margin-top: 10px;
+    margin-top: 1rem;
     font-family: monospace;
     font-weight: bolder;
     font-size: xx-large;
     text-align: center;
-    position: relative;
 
 }
 
 li{
-    margin-top: 30px;
+    margin-top: 3rem;
     list-style: none;
 }
 
@@ -58,19 +58,19 @@ li{
     color: black;
     font-style: normal;
     background-color: plum;
-    border-radius: 15px;
-    box-shadow: 2px 2px 2px 2px white;
+    border-radius: 1.5rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem white;
     text-decoration: none;
-    padding: 10px;
+    padding: 1rem;
 }
 
 footer{
-    padding-top: 10px;
+    padding: 1rem;
     margin-left: 38%;
 }
 .redes{
     color:#FF99CC ;
-    font-size: 50px;
+    font-size: 5rem;
     text-align: center;
     padding: 1%;
 
