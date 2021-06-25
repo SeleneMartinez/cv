@@ -113,6 +113,7 @@ img[alt^="selene"]{
 .marco{
 
     background-color: #9999FF;
+    float: left;
     width: 25rem;
     height: 25rem;
     border-radius: 1rem 1rem 4rem 4rem;
@@ -133,6 +134,7 @@ img[alt^="selene"]{
     border-bottom: solid;
 }
 .presentacion-fondo{
+    float: left;
     height: 20rem;
     width: 20rem;
     border-radius: 1rem;
