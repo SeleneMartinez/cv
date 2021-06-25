@@ -70,7 +70,7 @@ footer{
     margin-left: 38%;
 }
 .redes{
-    color:#FF99CC ;
+    color:#9999FF ;
     font-size: 5rem;
     text-align: center;
     padding: 1%;
@@ -88,6 +88,19 @@ footer{
     text-decoration: none;
     padding: 1rem;
 }
+.curriculum
+{
+    font-size: large;
+    font-family: monospace;
+    color: black;
+    font-style: normal;
+    background-color: #CCCCFF;
+    border-radius: 1.5rem;
+
+    text-decoration: none;
+    padding: 1rem;
+}
+
 
 .navegador{
     box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem white;
