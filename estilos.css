@@ -96,10 +96,10 @@ footer{
 }
 
 img[alt^="selene"]{
-    border-radius: 15%;
+    border-radius: 30%;
     height: 70%;
     width: auto;
-    padding-top: auto;
+    padding-top: 50%;
 
 
 }
