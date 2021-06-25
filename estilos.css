@@ -76,3 +76,19 @@ footer{
     padding: 1%;
 
 }
+
+.texto-botones{
+    font-size: large;
+    font-family: monospace;
+    color: black;
+    font-style: normal;
+    background-color: plum;
+    border-radius: 1.5rem;
+
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.navegador{
+    box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem white;
+}
