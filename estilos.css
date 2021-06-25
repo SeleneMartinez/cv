@@ -29,12 +29,13 @@ height: 100%;
 }
 .banner-interno{
     border-radius: 1.5rem;
-    position: fixed;
+
     border-style: dashed;
     height: 6rem;
     width: 47.5rem;
     margin-left: 1rem;
     margin-top: 0.7rem;
+    position: absolute;
 
 }
 .text{
