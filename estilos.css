@@ -101,5 +101,10 @@ img[alt^="selene"]{
     width: 10%;
     height: 10%;
 
-
+}
+.marco{
+    padding-top: 2%;
+    background-color: #9999FF;
+    width: 100px;
+    height: 100px;
 }
