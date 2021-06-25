@@ -129,8 +129,8 @@ img[alt^="selene"]{
     height: 20rem;
     width: 20rem;
     border-radius: 1rem;
-    background-color: #9999FF;
-    opacity: 70%;
+    background-color: white;
+    opacity: 30%;
 }
 
 .superior{
