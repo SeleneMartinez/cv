@@ -88,21 +88,16 @@ footer{
     text-decoration: none;
     padding: 1rem;
 }
-.curriculum
-{
-    background-color:  #CCCCFF;
 
-}
 
 
 .navegador{
     box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem white;
 }
 
-img[alt^="arrow"]{
-    vertical-align: middle;
+img[alt^="selene"]{
+    border-radius: 50%;
+    height: 20rem;
+    width: 20rem;
 
-}
-.descargas{
-    padding-top:5%;
 }
