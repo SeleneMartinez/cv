@@ -97,10 +97,9 @@ footer{
 
 .container {
     width: 80%;
-    height: 200px;
+    height: 300rem;
     background: aqua;
-    margin: auto;
-    padding: 10px;
+    margin-top: 4rem;
   }
 
 img[alt^="selene"]{
